@@ -1,3 +1,6 @@
+plugins:
+  - github-pages
+
 # Theme
 remote_theme: 'epidrome/cover-card'
 
