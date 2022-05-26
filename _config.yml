@@ -1,5 +1,5 @@
 # Theme
-remote_theme: 'epidrome/cover-card'
+remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Reshab Kansakar'
@@ -11,6 +11,7 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
+#dribbble: ''
 #facebook: ''
 #twitter: ''
 #linkedin: ''
@@ -18,12 +19,14 @@ favicon: 'favicon.ico'
 #pinterest: ''
 #youtube: ''
 #github-user: ''
+#gitlab-user: ''
 #codepen: ''
 #steam: ''
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
 #reddit: ''
+#rubygems: ''
 #medium:  ''
 #tumblr: ''
 #weibo: ''
@@ -32,6 +35,8 @@ favicon: 'favicon.ico'
 #email: ''
 #messenger: ''
 
+#social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+
 # Advanced settings
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
